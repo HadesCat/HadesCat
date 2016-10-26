@@ -1,0 +1,5 @@
+learn git diff
+
+the command "git diff" is used to compare what is in your working directory with what is in your staged area.
+
+the command "git diff --staged" is uesd to compare what you have staged with your last commit
