@@ -5,3 +5,5 @@ i konew some commands,such as pwd,cd,cd ..,echo content>file name,git init,ls -a
 now,i create a new branch called dev ot learn how to create and manage branches,and merge them.
 
 merge banched with no-ff not defalut mode:fast forward(ff).
+
+learn git stash.the command is used to protect the spot when you are working.
